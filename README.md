@@ -13,12 +13,6 @@ This project is a modern, aesthetically pleasing website designed to showcase te
 - **CSS**: For styling, including layout, colors, and typography.
 - **JavaScript**: For scrollReveal() animation.
 
-## Setup and Usage
-1. **Clone the Repository**
-   ```bash
-   git clone [repository URL]
-   cd [repository folder]
-
 ## Pages
 ![Screenshot 2024-08-12 224110](https://github.com/user-attachments/assets/5d1a3555-5fe7-4621-a501-69a1d5b2dac3)
 ![Screenshot 2024-08-12 224312](https://github.com/user-attachments/assets/654fbd3d-435d-4241-b11f-012e95d834c8)
